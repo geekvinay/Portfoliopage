@@ -1,0 +1,368 @@
+body {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0ch;
+  background-color: #3f3f46;
+}
+
+.pg1 {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: #3f3f46;
+  text-shadow: 10px 10px 10px rgb(34, 34, 34);
+}
+
+.pg2 {
+  position: absolute;
+  margin: 0ch;
+  height: 100%;
+  width: 1250px;
+  background-color: #4f86f7;
+  text-shadow: 10px 10px 10px rgb(34, 34, 34);
+}
+
+.vinay {
+  position: absolute;
+  font-size: 5rem;
+  padding-left: 25px;
+  margin: 0;
+  width: 100px;
+  padding-top: 50px;
+  font-family: "PT Mono", monospace, sans;
+  color: #27e8a7;
+  text-shadow: 10px 10px 10px rgb(34, 34, 34);
+  transition: 0.5s;
+}
+
+.top1 {
+  position: absolute;
+  width: 500px;
+  right: 0px;
+  bottom: 0;
+  margin-right: 0px;
+  padding-top: 80px;
+  filter: drop-shadow(1rem 1rem 1rem rgb(34, 34, 34));
+}
+
+.vinay1 {
+  font-size: 2.5rem;
+  position: absolute;
+  margin-top: 480px;
+  margin-left: 75px;
+  text-shadow: 10px 10px 10px rgb(34, 34, 34);
+  bottom: 25px;
+  font-family: "IBM Plex Mono", monospace;
+  color: #add7ff;
+  transition: 0.5s;
+}
+
+.vinay2 {
+  width: 50%;
+  font-size: 25px;
+  position: relative;
+  margin: 0;
+  padding-left: 600px;
+  text-shadow: 10px 10px 10px rgb(34, 34, 34);
+}
+.dot {
+  position: relative;
+  border: none;
+  border-bottom: none;
+  border-left: none;
+  border-right: none;
+  border-width: 6px;
+  margin-top: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.meetvinay {
+  position: relative;
+  font-size: 2.5em;
+  margin-top: 840px;
+}
+
+.head2 {
+  width: fit-content;
+}
+.vinaypic {
+  position: absolute;
+  height: 325px;
+  box-shadow: 10px 10px 10px rgb(34, 34, 34);
+  left: -400px;
+  margin-bottom: 200px;
+  border-radius: 100%;
+}
+
+.meetvinay {
+  display: inline-block;
+  width: 100%x;
+  height: 100px;
+  position: relative;
+  margin: 0ch;
+  left: 600px;
+  font-size: 2rem;
+  font-family: "PT Mono", monospace, sans;
+  color: #27e8a7;
+  padding-top: 200px;
+  text-shadow: 10px 10px 10px rgb(34, 34, 34);
+}
+
+.boldline {
+  position: absolute;
+  width: 656px;
+  border-width: 3px;
+  border-style: solid;
+  border-color: white;
+  background-color: white;
+  text-shadow: 10px 10px 10px rgb(34, 34, 34);
+}
+
+.down {
+  margin-top: 245px;
+}
+.down1 {
+  margin-top: 50px;
+}
+.leftalign {
+  padding-left: 0;
+}
+
+.left {
+  left: 0;
+}
+
+.right {
+  padding-left: 200px;
+}
+.fullwidth {
+  width: 100%;
+}
+
+th {
+  font-size: 40px;
+  padding: 25px;
+  font-style: bold;
+  align: left;
+}
+
+td {
+  padding: 15px;
+  padding-right: 45px;
+}
+table {
+  padding-left: 15px;
+}
+
+.vinay3 {
+  position: relative;
+  margin-top: 50px;
+}
+
+ul {
+  width: 300%;
+}
+
+.funcode {
+  display: inline-block;
+  width: 100%x;
+  height: 100px;
+  position: relative;
+  left: 100px;
+  margin: 0ch;
+  font-size: 2rem;
+  font-family: "IBM Plex Mono", monospace;
+  color: white;
+  text-shadow: 10px 10px 10px rgb(34, 34, 34);
+}
+
+.p1 {
+  top: 10px;
+  position: relative;
+  height: 400px;
+  margin-left: 100px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  box-shadow: 10px 10px 10px rgb(34, 34, 34);
+}
+
+.p2 {
+  position: relative;
+  top: -90px;
+  margin: 10px;
+  height: 300px;
+  margin-bottom: 10px;
+  margin-top: 0;
+  box-shadow: 10px 10px 10px rgb(34, 34, 34);
+}
+
+.p3 {
+  position: relative;
+  height: 400px;
+  width: 280px;
+  margin-left: 10px;
+  box-shadow: 10px 10px 10px rgb(34, 34, 34);
+}
+
+.p4 {
+  position: relative;
+  height: 400px;
+  margin: 10px;
+  margin-left: 100px;
+  margin-right: 10px;
+  box-shadow: black;
+  box-shadow: 10px 10px 10px rgb(34, 34, 34);
+}
+
+.p5 {
+  position: relative;
+  top: -90px;
+  margin: 10px;
+  height: 300px;
+  margin-bottom: 100px;
+  box-shadow: 10px 10px 10px rgb(34, 34, 34);
+}
+
+.p6 {
+  position: relative;
+  height: 400px;
+  width: 280px;
+  margin-left: 10px;
+  box-shadow: 10px 10px 10px rgb(34, 34, 34);
+}
+
+.p7 {
+  position: relative;
+  height: 400px;
+  width: 300px;
+  margin-top: 10px;
+  margin-left: 100px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  box-shadow: 10px 10px 10px rgb(34, 34, 34);
+}
+.p8 {
+  position: relative;
+  top: -190px;
+  margin: 10px;
+  height: 300px;
+  margin-bottom: 100px;
+  box-shadow: 10px 10px 10px rgb(34, 34, 34);
+}
+.p9 {
+  position: relative;
+  top: -10px;
+  height: 400px;
+  width: 280px;
+  margin-left: 10px;
+  box-shadow: 10px 10px 10px rgb(34, 34, 34);
+}
+
+.p10 {
+  position: relative;
+  top: -290px;
+  left: 415px;
+  margin: 10px;
+  height: 270px;
+  width: 400px;
+  margin-bottom: 10px;
+  margin-top: 0;
+  box-shadow: 10px 10px 10px rgb(34, 34, 34);
+}
+
+.p12 {
+  position: relative;
+  width: 81.5%;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  margin-left: 100px;
+  top: -300px;
+  box-shadow: 10px 10px 10px rgb(34, 34, 34);
+}
+.p13 {
+  position: relative;
+  top: -300px;
+  height: 410px;
+  width: 320px;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  box-shadow: 10px 10px 10px rgb(34, 34, 34);
+}
+.p13a {
+  position: relative;
+
+  top: -300px;
+  height: 410px;
+  width: 330px;
+  margin-left: 100px;
+  margin-top: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  box-shadow: 10px 10px 10px rgb(34, 34, 34);
+}
+.p13c {
+  position: relative;
+  top: -300px;
+  height: 410px;
+  width: 330px;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  box-shadow: 10px 10px 10px rgb(34, 34, 34);
+  transition: 0.5s;
+}
+
+.textshad {
+  text-shadow: 10px 10px 10px rgb(34, 34, 34);
+}
+
+.contactpic {
+  position: absolute;
+  height: 500px;
+  filter: drop-shadow(1rem 1rem 1rem rgb(34, 34, 34));
+  left: -600px;
+  margin-bottom: 0px;
+}
+
+.linkedin {
+  height: 80px;
+  filter: drop-shadow(1rem 1rem 1rem rgb(34, 34, 34));
+  padding: 10px;
+}
+
+.linkedintext {
+  position: relative;
+  font-size: 2rem;
+  margin-left: 20px;
+  margin-top: 100px;
+  top: -35px;
+}
+.mail {
+  height: 80px;
+  filter: drop-shadow(1rem 1rem 1rem rgb(34, 34, 34));
+  padding-left: 10px;
+  padding-bottom: 10px;
+  padding: 10px;
+}
+.contactpage {
+  position: relative;
+  bottom: 0px;
+}
+.contactvinay {
+  display: inline-block;
+  width: 100%x;
+  height: 100px;
+  position: relative;
+  margin: 0ch;
+  left: 600px;
+  font-size: 2rem;
+  font-family: "PT Mono", monospace, sans;
+  color: #27e8a7;
+  text-shadow: 10px 10px 10px rgb(34, 34, 34);
+}
