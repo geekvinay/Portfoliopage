@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: vinaykishore.me
+Token: 6a1268d8bd2ea31f84f6ce357c764dd4c744be2df967951cb4dfeac4ebb9721b
